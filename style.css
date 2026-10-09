@@ -1,0 +1,21 @@
+.ministerioparte {
+    text-align: center;
+    line-break: loose;
+    justify-content: space-around;
+}
+
+.listinha {
+    list-style: decimal;
+}
+
+.italico {
+    font-style: italic;
+}
+
+.quebra_pagina {
+    break-after: page;
+}
+
+.textopequeno {
+    size: 2cm;
+}
